@@ -32,8 +32,31 @@
 
 .index__rocket {
     position: absolute;
-    top: 0;
-    right: 2vw;
-    height: 105vh;
+    top: 8%;
+    right: 5%;
+    height: 750px;
+    width: auto;
     pointer-events: none;
+}
+
+.index__header1 {
+     font-family: "Playfair Display", serif;
+     font-size: 82px;
+     color: #F8DD6A;
+     margin-left: 245px;
+     padding-top: 150px;
+     margin-bottom: -14px;
+ }
+
+.index__header2 {
+    font-family: "Playfair Display", serif;
+    font-size: 82px;
+    color: #F8DD6A;
+    margin-left: 245px;
+}
+
+.smiley {
+    font-size: 40px !important;
+    color: #F8DD6A;
+    margin-top: 20px;
 }
