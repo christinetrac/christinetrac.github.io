@@ -17,6 +17,28 @@ body {
     left: 65px;
 }
 
+.header__nav {
+    position: absolute;
+    transform: rotate(270deg);
+    left: -170px;
+    top: 450px;
+    width: 527px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header__nav__link {
+    font-family: "Poppins", sans-serif;
+    color: #FCF5EC;
+    font-size: 18px;
+    text-decoration: none;
+    transition: all .2s linear;
+}
+
+.header__nav__link:hover, .header__nav__link:active {
+    color: #F8DD6A;
+}
+
 .socials__wrapper {
     position: absolute;
     top: 80px;
