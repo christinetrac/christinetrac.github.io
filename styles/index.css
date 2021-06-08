@@ -1,3 +1,39 @@
 .index__body {
     background-color: #8BB8E2;
+    position: relative;
+}
+
+.header__logo {
+    width: 45px;
+    height: 54px;
+    position: absolute;
+    top: 65px;
+    left: 65px;
+}
+
+.socials__wrapper {
+    position: absolute;
+    top: 80px;
+    right: 80px;
+}
+
+.socials {
+    font-size: 24px !important;
+    color: #FCF5EC;
+    margin-left: 15px;
+    transition: all .2s linear;
+}
+
+.socials:hover, .socials:active {
+    color: #F8DD6A;
+}
+
+/* index specific styles */
+
+.index__rocket {
+    position: absolute;
+    top: 0;
+    right: 2vw;
+    height: 105vh;
+    pointer-events: none;
 }
