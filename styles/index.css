@@ -121,3 +121,13 @@ body {
     margin-top: 20px;
     animation: rotating 4s linear infinite;
 }
+
+.index__greeting {
+    margin-left: 245px;
+    font-size: 72px;
+    color: #7A55E7;
+    width: 383px;
+    font-family: "Poppins", sans-serif;
+    line-height: 80px;
+    margin-top: 138px;
+}
