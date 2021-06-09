@@ -75,11 +75,11 @@ body {
 
 @-webkit-keyframes action {
     0% { transform: translateY(0); }
-    100% { transform: translateY(-10px); }
+    100% { transform: translateY(-20px); }
 }
 @keyframes action {
     0% { transform: translateY(0); }
-    100% { transform: translateY(-10px); }
+    100% { transform: translateY(-20px); }
 }
 
 .index__header1 {
