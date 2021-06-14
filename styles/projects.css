@@ -105,12 +105,13 @@ body {
 
 .projects__card {
     margin-right: 103px;
-    filter: drop-shadow(10px 10px 0px #7A55E7);
+    /*filter: drop-shadow(10px 10px 0px #7A55E7);*/
     transition: all .4s linear;
 }
 
 .projects__card:hover, .projects__card:active {
-    filter: none;
+    /*filter: none;*/
+    filter: drop-shadow(10px 10px 0px #7A55E7);
 }
 
 .projects__image {
