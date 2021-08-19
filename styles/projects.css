@@ -65,7 +65,7 @@ body {
 .projects__cloud {
     position: absolute;
     top: 5%;
-    right: 10%;
+    left: 35%;
     height: 908px;
     width: auto;
     pointer-events: none;
@@ -88,6 +88,8 @@ body {
     color: #F8DD6A;
     margin-left: 245px;
     padding-top: 150px;
+    z-index: 99;
+    position: relative;
 }
 
 .projects__container {
@@ -110,8 +112,7 @@ body {
 }
 
 .projects__card:hover, .projects__card:active {
-    /*filter: none;*/
-    filter: drop-shadow(10px 10px 0px #7A55E7);
+    filter: drop-shadow(0 0 20px #FFF);
 }
 
 .projects__image {

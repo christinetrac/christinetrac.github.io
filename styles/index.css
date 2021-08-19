@@ -65,7 +65,7 @@ body {
 .index__rocket {
     position: absolute;
     top: 8%;
-    right: 5%;
+    left: 40%;
     height: 750px;
     width: auto;
     pointer-events: none;
@@ -130,4 +130,6 @@ body {
     font-family: "Poppins", sans-serif;
     line-height: 80px;
     margin-top: 138px;
+    z-index: 99;
+    position: relative;
 }
