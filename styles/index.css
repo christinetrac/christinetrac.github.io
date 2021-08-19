@@ -89,6 +89,7 @@ body {
      margin-left: 245px;
      padding-top: 150px;
      margin-bottom: -14px;
+    pointer-events: none;
  }
 
 .index__header2 {
@@ -96,6 +97,7 @@ body {
     font-size: 82px;
     color: #F8DD6A;
     margin-left: 245px;
+    pointer-events: none;
 }
 
 @keyframes rotating {
