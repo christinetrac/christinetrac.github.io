@@ -115,10 +115,10 @@ body {
     width: 617px;
     margin-left: 75px;
     font-family: "Poppins", sans-serif;
+    font-weight: 300;
     font-size: 22px;
     line-height: 33px;
     color: #FCF5EC;
-    font-weight: 200;
 }
 
 .about__bio p {
