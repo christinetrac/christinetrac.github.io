@@ -89,7 +89,7 @@ body {
 }
 
 .about__header {
-    font-family: "Playfair Display", serif;
+    font-family: "Merriweather", serif;
     font-size: 82px;
     color: #F8DD6A;
     margin-left: 245px;
@@ -107,8 +107,8 @@ body {
 }
 
 .about__selfie {
-    width: 330px;
-    height: 430px;
+    width: 360px;
+    height: 460px;
 }
 
 .about__bio {
